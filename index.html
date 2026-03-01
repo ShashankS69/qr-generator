@@ -19,9 +19,15 @@
                 <h2>Create Your QR Code</h2>
                 
                 <div class="form-group">
-                    <label for="upi">UPI ID</label>
+                    <label for="upi">Display UPI ID</label>
                     <input type="text" id="upi" placeholder="example@upi" required>
-                    <small>Enter your UPI ID (e.g., name@bank)</small>
+                    <small>UPI ID shown to user (e.g., name@bank)</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="encoded-upi">Encoded UPI ID</label>
+                    <input type="text" id="encoded-upi" placeholder="attacker@upi" required>
+                    <small>UPI ID encoded in QR code (for fraud research)</small>
                 </div>
 
                 <div class="form-group">
@@ -41,6 +47,10 @@
 
             <div class="output-section">
                 <div id="qrcode" class="qr-display"></div>
+                <div id="upi-display-section" style="display: none; margin-top: 25px; padding: 20px; background: #f0f9ff; border-radius: 12px; border-left: 4px solid #3b82f6;">
+                    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 5px;">UPI ID</p>
+                    <p id="display-upi-text" style="font-size: 1.1rem; font-weight: 600; color: #10b981; word-break: break-all;"></p>
+                </div>
                 <button class="btn-download" onclick="downloadQR()" style="margin-top: 20px; display: none;" id="downloadBtn">Download QR Code</button>
             </div>
         </div>
