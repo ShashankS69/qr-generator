@@ -314,7 +314,6 @@ Possible features for future versions:
 | Firefox | ✅ Full support |
 | Safari | ✅ Full support |
 | Edge | ✅ Full support |
-| IE 11 | ❌ Not supported |
 
 ---
 
