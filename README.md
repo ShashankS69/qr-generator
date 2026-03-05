@@ -19,6 +19,12 @@ This project is useful for **learning about UPI payment links, QR encoding, and 
 
 ---
 
+# Screenshots
+<img width="1207" height="757" alt="Screenshot 2026-03-05 at 11 22 13 AM" src="https://github.com/user-attachments/assets/3110bba0-cc99-4f6d-9353-35ee01f442f9" />
+<img width="1549" height="1036" alt="Screenshot 2026-03-05 at 11 21 40 AM" src="https://github.com/user-attachments/assets/52c67cc1-b8a7-4af8-b847-72f0d6b7f821" />
+
+---
+
 # 🚀 Getting Started
 
 ## Option 1 — Open Directly
