@@ -210,8 +210,8 @@ This project is open for educational and development purposes.
 # 👨‍💻 Author
 
 **Shashank Shekhar**
-MBA-Tech Student | Fintech & Web Development
+MBA-Tech Student | Fintech 
 
 **Rishabh Mishra**
-MBA-Tech Student | Fintech & Web Development
+MBA-Tech Student | Fintech
 
