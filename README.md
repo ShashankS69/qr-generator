@@ -211,3 +211,5 @@ This project is open for educational and development purposes.
 
 **Shashank Shekhar**
 MBA-Tech Student | Fintech & Web Development
+**Rishabh Mishra**
+MBA-Tech Student | Fintech & Web Development
